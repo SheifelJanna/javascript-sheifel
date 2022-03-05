@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<meta charset="UTF-8" />
+<html>
+<head>
+<title>Задание 7</title>
+<script language="JavaScript">
+function schoolsubjects() {
+subj = new Array("русский язык","литература","иностранный язык","музыка","алгебра","геометрия",
+"физика","химия","черчение","информатика");
+hum = new Array(); //гумманитарные дисциплины
+hum=subj.slice(0,4);
+document.write("Гумманитарные дисциплины: "+hum+"<br>");
+tex = new Array();//технические дисциплины
+tex = subj.slice(5,10);
+document.write("Технические дисциплины: "+tex+"<br>");
+}
+</script>
+</head>
+<body>
+<script language = "JavaScript">
+schoolsubjects();
+</script>
+</body>
+</html> 
