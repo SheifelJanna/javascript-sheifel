@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Шейфель Ж.В ЛР №2 Задание 1 </title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+  <script type="text/javascript">
+  var colors = ['pink', 'black', 'green', 'white', 'blue', 'yellow', 'red','purple'];
+    $(document).ready(function () {
+	   $("#test").click(function(){
+      $("body").css("backgroundColor", colors[Math.floor(Math.random() * colors.length)]);
+	  });
+	 /* $("#test").click(function(){
+      $("body").css("backgroundColor", "#ffffff");
+	  });*/
+    });
+  </script>
+</head>
+<body>
+   <input type="button" id="test" value="Поменять цвет фона страницы"/>
+</body>
+</html>

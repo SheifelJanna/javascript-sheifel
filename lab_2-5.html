@@ -1,0 +1,44 @@
+<!DOCTYPE html><html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Шейфель Ж.В Задание 5</title>
+ <link rel="stylesheet" href="mystyle.css" type="text/css"/> 
+<style>
+  div {
+    position: absolute;
+    background-color: #FF1493;
+    left: 50px;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+  }
+  </style>
+    <script type="text/javascript" src="libs/jquery-3.6.0.min.js"></script>
+ </head>
+ <body>
+  <div class="drag"></div>
+ <script type="text/javascript">
+
+$(document).ready(function(){
+
+let mouseIsPress=false;
+$(document).mousemove(function(event){
+if (mouseIsPress==true){
+ $(".drag").offset({top: event.pageY, left: event.pageX});
+ $(".drag").css('opacity','0.3');
+ }
+   });
+ $(".drag").mousedown(function(){ 
+mouseIsPress=true;
+});
+  $(document).mouseup(function() {
+  mouseIsPress=false;
+   $(".drag").css('opacity','1');
+
+});
+
+ });
+ </script>
+ 
+ </body>
+</html>

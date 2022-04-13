@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Шейфель Ж.В Задание 3</title>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+  <script type="text/javascript">
+   $(document).on('keydown', function() {
+       if (event.keyCode == 37) {
+        $("#img1").animate({left:"-=100"}, 1200)		
+    }
+    if (event.keyCode == 38) {
+		 $("#img1").animate({top:"-=100"}, 1200)
+    }
+    if (event.keyCode == 39) {
+	    $("#img1").animate({left:"+=100"}, 1200)
+    }
+    if (event.keyCode == 40) {
+	   $("#img1").animate({top:"+=100"}, 1200)
+    }
+  });
+  </script>
+</head>
+<body>
+<p id="text">Жмите на стрелочки на клавиатуре!!!</p>
+ <img id="img1" src="image/1.jpg" >
+ </p> 
+ <style>
+ #img1{
+ height:400px;
+ width:400px;
+ position:absolute;
+	left:450px;
+	top:140px;
+ }
+ #text {
+ color: grey;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ }
+ </style>
+</body>
+</html>

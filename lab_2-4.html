@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Шейфель Ж.В Задание 4</title>
+<style>
+</style>
+<script type="text/javascript" src="libs/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+<p>Положения мыши в координатах: <luly></luly>.</p>
+<script type="text/javascript">
+
+$(document).mousemove(function(event){
+$("luly").text(event.pageX + ", " + event.pageY);
+});
+</script>
+</body>
+</html>
