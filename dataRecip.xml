@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <id>1</id>
+        <title>Сырники из творога</title>
+        <picture>https://recfood.ru/wp-content/uploads/2018/09/syrniki-s-yagodami-i-yogurtovym-sousom.jpg</picture>
+        <rate>5</rate>
+        <value> Сырники - отличный вариант завтрака или десерта.. </value>
+    </item>
+    <item>
+        <id>2</id>
+        <title>Пицца</title>
+        <picture>https://kartinkin.net/uploads/posts/2021-07/1625211342_33-kartinkin-com-p-pitstsa-margarita-yeda-krasivo-foto-46.jpg</picture>
+        <rate>12</rate>
+        <value> Пицца- открытый пирог в виде лепешки, покрытой начинками, в первую очередь, расплавленным сыром</value>
+    </item>
+    <item>
+        <id>3</id>
+        <title>Классическая шарлотка</title>
+        <picture>https://vilkin.pro/wp-content/uploads/2020/10/prostaya-sharlotka-s-yablokami-770x513.jpg</picture>
+        <rate>6</rate>
+        <value> Шарлотка - беспроигрышный вариант для любого завтрака или десерта. А секрет идеальной шарлотки заключается в пропорциях...
+</value>
+    </item>
+    <item>
+        <id>4</id>
+        <title>Тонкие блины на молоке</title>
+        <picture>https://www.maggi.ru/data/images/recept/img640x500/recept_3628_kg63.jpg</picture>
+        <rate>6</rate>
+        <value> Кто не любил в детстве мягкие узорчатые бабушкины блиночки? Рецепт идеальных тонких блинчиков на молоке..
+         </value>
+        </item>
+    <item>
+        <id>5</id>
+        <title>Томатный суп из морепродуктов</title>
+        <picture>https://kopilka-kulinara.ru/upload/information_system_45/1/8/9/item_1896/item_1896.jpg</picture>
+        <rate>11</rate>
+        <value> В вашей семье есть гурманы? Пора побаловать себя томатным супом из морепродуктов с мидиями, креветками и устрицами. Вы оближите пальчики..
+         </value>
+        </item>
+    <item>
+        <id>6</id>
+        <title>Паста</title>
+        <picture>https://pro-dachnikov.com/uploads/posts/2022-01/1642865468_2-pro-dachnikov-com-p-italyanskaya-pasta-foto-2.jpg</picture>
+        <rate>6</rate>
+        <value>
+        Привычный обед может оказаться царским приёмом пищи с обалденной пастой..</value>
+        </item>
+    <item>
+        <id>7</id>
+        <title>Плов</title>
+        <picture>https://www.gastronom.ru/binfiles/images/20170418/b87bb973.jpg</picture>
+        <rate>8</rate>
+        <value>
+     Плов это Одни считают, что плов придумал тюрко-монгольский военачальник Тамерлан во время одного из своих походов, что накормить воинов в пути. Другие придерживаются..
+        </value>
+        </item>
+    <item>
+        <id>8</id>
+        <title>Борщ</title>
+        <picture>https://img.povar.ru/main/ab/23/b4/9c/samii_vkusnii_borsh-404089.jpg</picture>
+        <rate>12</rate>
+        <value>
+        Борщ — горячий заправочный суп на основе свёклы, которая придаёт ему характерный красный.. </value>
+        </item>
+    <item>
+        <id>9</id>
+        <title>Ризотто</title>
+        <picture>https://static.1000.menu/img/content-v2/db/03/44015/rizotto-s-ovoshchami_1583928544_10_max.jpg</picture>
+        <rate>7</rate>
+        <value>
+        Ризотто это рис , приготовленный с овощами, от которого вы останетесь в восторге! </value>
+        </item>
+    <item>
+        <id>10</id>
+        <title>Омлет с моцареллой и помидорами</title>
+        <picture>https://eda.ru/img/eda/c180x180/s1.eda.ru/StaticContent/Photos/130829212936/130904175634/p_O.jpg</picture>
+        <rate>8</rate>
+        <value>
+        Ваши домочадцы скажут вам спасибо! Нежный омлет с помидорками черри и сыром моцареллой! Лёгкий и вкусный завтрак на каждый день.. </value>
+	</item>
+    <item>
+        <id>11</id>
+        <title>Греческий салат</title>
+        <picture>https://avatars.mds.yandex.net/get-zen_doc/2455156/pub_5f08fb9ac9010532d9cc68b2_5f08fc8d4eb46835c8fb2566/scale_1200</picture>
+        <rate>12</rate>
+        <value> Салат, который придётся по душе каждому! </value>
+        </item>
+    <item>
+        <id>12</id>
+        <title>Торт птичье молоко</title>
+        <picture>https://mykaleidoscope.ru/uploads/posts/2020-01/1579935812_3-p-torti-ptiche-moloko-3.jpg</picture>
+        <rate>10</rate>
+        <value> Нежный, лёгкий..Вкус из детства!
+         </value>
+        </item>
+    <item>
+        <id>13</id>
+        <title>Банановый чизкей</title>
+        <picture>https://eda.ru/img/eda/c180x180/s1.eda.ru/StaticContent/Photos/120131085552/171207192742/p_O.jpg</picture>
+        <rate>8 </rate>
+        <value>
+        Отличный вариант торта на праздничный стол. Чизкейк с шоколадом и бананом отлично дополнит ваш праздничный стол
+        </value>
+        </item>
+    <item>
+        <id>14</id>
+        <title>Итальянский салат</title>
+        <picture>https://myvitae.ru/wp-content/uploads/2021/03/1fsTy-LkoG0.jpg</picture>
+        <rate>7</rate>
+        <value>
+        Для этого салата нам необходима ветчина, красный перец, и... макароны! Да-да, вы не ослышались!
+        </value>
+        </item>
+    <item>
+        <id>15</id>
+        <title>Хачапури по-Аджарски </title>
+        <picture>https://img.iamcook.ru/2020/upl/recipes/zen/u-93a1f217e18291a7b6eefc89049a0085.jpg</picture>
+        <rate>11</rate>
+        <value>
+        Легендарные хачапури! Вы не сможете остановиться!!!  </value>
+        </item>
+</items>

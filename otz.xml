@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <id>1</id>
+        <name>Изабелла</name>
+        <email>iziki@mail.ru</email>
+        <rate>10</rate>
+        <value>Шикарный рецепт сырников!</value>
+    </item>
+    <item>
+        <id>2</id>
+        <name>Роза Чайная</name>
+        <email>rosa@mail.ru</email>         <rate>3</rate> 
+        <value>Мне не понравился рецепт томатного супа..</value>
+    </item>
+    <item>
+        <id>3</id>
+        <name>Валя Карнавал</name>
+        <email>valy@yandex.ru</email>         <rate>9</rate>
+        <value>Спасибо,всё очень вкусно</value>
+    </item>
+    <item>
+        <id>4</id>
+        <name>Шушин</name>
+        <email>vss@gmail.com</email>                 <rate>7</rate>
+        <value>Попробуем, спасибо! </value>
+    </item>
+    <item>
+        <id>5</id>
+        <name>Шейфель Жанна</name>
+        <email>janna-sch@mail.ru</email>                 <rate>5</rate>
+        <value>Попробую сделать так же</value>
+    </item>
+    <item>
+        <id>6</id>
+        <name>Баха</name>
+        <email>baha@mail.ru</email>                 <rate>3</rate>
+        <value>
+            Мне нечего сказать, это треш. Вроде всё понятно, но  у меня каша какая-то а не блины, пишите пожалуйста подробнее!
+        </value>
+    </item>
+</items>
